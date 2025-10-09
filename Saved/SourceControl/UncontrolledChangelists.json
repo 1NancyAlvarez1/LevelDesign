@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Content/Fab/Flashlight/source/Buttonbase_low.uasset",
+				"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Content/Fab/Flashlight/source/Button_low.uasset",
+				"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Content/Fab/Flashlight/source/Flashlight_low.uasset",
+				"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Content/Fab/Flashlight/textures/Flashligh_MAT_BaseColor.uasset",
+				"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Content/Fab/Flashlight/textures/Flashligh_MAT_Emissive.uasset",
+				"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Content/Fab/Flashlight/textures/Flashligh_MAT_Metallic.uasset",
+				"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Content/Fab/Flashlight/textures/Flashligh_MAT_Normal.uasset",
+				"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Content/Fab/Flashlight/textures/Flashligh_MAT_Roughness.uasset",
+				"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Content/Fab/Flashlight/textures/Flashlight_Extras_MAT_BaseColor.uasset",
+				"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Content/Fab/Flashlight/textures/Flashlight_Extras_MAT_Metallic.uasset",
+				"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Content/Fab/Flashlight/textures/Flashlight_Extras_MAT_Normal.uasset",
+				"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Content/Fab/Flashlight/textures/Flashlight_Extras_MAT_Roughness.uasset",
+				"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Content/Fab/Flashlight/textures/Glass_MAT_Opacity.uasset",
+				"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Content/Fab/Flashlight/textures/Glass_MAT_Roughness.uasset",
+				"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Content/Fab/Flashlight/textures/internal_ground_ao_texture.uasset"
+			]
+		}
+	]
+}
