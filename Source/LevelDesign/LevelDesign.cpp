@@ -1,0 +1,8 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+
+#include "LevelDesign.h"
+#include "Modules/ModuleManager.h"
+
+IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, LevelDesign, "LevelDesign" );
+
+DEFINE_LOG_CATEGORY(LogLevelDesign)

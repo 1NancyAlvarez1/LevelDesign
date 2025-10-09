@@ -1,0 +1,34 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LevelDesign.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/LevelDesignEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/Module.LevelDesign.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/LevelDesign.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/LevelDesignCameraManager.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/LevelDesignCharacter.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/LevelDesignGameMode.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/LevelDesignPlayerController.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/HorrorCharacter.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/HorrorGameMode.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/HorrorPlayerController.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/HorrorUI.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/ShooterCharacter.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/ShooterGameMode.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/ShooterPlayerController.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/EnvQueryContext_Target.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/ShooterAIController.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/ShooterNPC.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/ShooterStateTreeUtility.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/ShooterBulletCounterUI.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/ShooterUI.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/ShooterPickup.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/ShooterProjectile.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/ShooterWeapon.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/ShooterWeaponHolder.cpp.obj"
+"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/Default.rc2.res"
+/OUT:"C:/Users/Alvar/Downloads/Level Design/NAlvarez_SchoolMap/LevelDesign/Intermediate/Build/Win64/x64/UnrealEditor/Development/LevelDesign/UnrealEditor-LevelDesign.lib"

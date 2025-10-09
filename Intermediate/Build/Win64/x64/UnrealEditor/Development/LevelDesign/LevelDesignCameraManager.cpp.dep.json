@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\alvar\\downloads\\level design\\nalvarez_schoolmap\\leveldesign\\source\\leveldesign\\leveldesigncameramanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\alvar\\downloads\\level design\\nalvarez_schoolmap\\leveldesign\\intermediate\\build\\win64\\x64\\leveldesigneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\alvar\\downloads\\level design\\nalvarez_schoolmap\\leveldesign\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\leveldesign\\definitions.leveldesign.h",
+            "c:\\users\\alvar\\downloads\\level design\\nalvarez_schoolmap\\leveldesign\\source\\leveldesign\\leveldesigncameramanager.h",
+            "c:\\users\\alvar\\downloads\\level design\\nalvarez_schoolmap\\leveldesign\\intermediate\\build\\win64\\unrealeditor\\inc\\leveldesign\\uht\\leveldesigncameramanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

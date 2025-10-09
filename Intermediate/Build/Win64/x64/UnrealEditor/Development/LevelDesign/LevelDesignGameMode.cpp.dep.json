@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\alvar\\downloads\\level design\\nalvarez_schoolmap\\leveldesign\\source\\leveldesign\\leveldesigngamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\alvar\\downloads\\level design\\nalvarez_schoolmap\\leveldesign\\intermediate\\build\\win64\\x64\\leveldesigneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\alvar\\downloads\\level design\\nalvarez_schoolmap\\leveldesign\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\leveldesign\\definitions.leveldesign.h",
+            "c:\\users\\alvar\\downloads\\level design\\nalvarez_schoolmap\\leveldesign\\source\\leveldesign\\leveldesigngamemode.h",
+            "c:\\program files\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\alvar\\downloads\\level design\\nalvarez_schoolmap\\leveldesign\\intermediate\\build\\win64\\unrealeditor\\inc\\leveldesign\\uht\\leveldesigngamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

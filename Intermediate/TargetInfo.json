@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LevelDesign",
+			"Path": "..\\Source\\LevelDesign.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LevelDesignEditor",
+			"Path": "..\\Source\\LevelDesignEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

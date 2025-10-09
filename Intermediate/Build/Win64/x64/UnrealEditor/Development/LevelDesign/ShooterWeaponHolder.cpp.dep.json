@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\alvar\\downloads\\level design\\nalvarez_schoolmap\\leveldesign\\source\\leveldesign\\variant_shooter\\weapons\\shooterweaponholder.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\alvar\\downloads\\level design\\nalvarez_schoolmap\\leveldesign\\intermediate\\build\\win64\\x64\\leveldesigneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\alvar\\downloads\\level design\\nalvarez_schoolmap\\leveldesign\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\leveldesign\\definitions.leveldesign.h",
+            "c:\\users\\alvar\\downloads\\level design\\nalvarez_schoolmap\\leveldesign\\source\\leveldesign\\variant_shooter\\weapons\\shooterweaponholder.h",
+            "c:\\users\\alvar\\downloads\\level design\\nalvarez_schoolmap\\leveldesign\\intermediate\\build\\win64\\unrealeditor\\inc\\leveldesign\\uht\\shooterweaponholder.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
