@@ -2880,3 +2880,74 @@ FPackageName: Skipped package /Game/Meshes/SM_Railings has a valid, mounted, mou
 [2025.10.10-00.51.22:075][908]LogSlate: Window 'Message Log' being destroyed
 [2025.10.10-00.51.23:494][987]LogSlate: Took 0.012484 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2025.10.10-00.51.23:782][  4]LogSlate: Window 'W_Hide' being destroyed
+[2025.10.10-00.51.55:196][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.10.10-00.51.56:960][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.10.10-00.51.57:016][328]LogStall: Shutdown...
+[2025.10.10-00.51.57:016][328]LogStall: Shutdown complete.
+[2025.10.10-00.51.57:111][328]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.10-00.51.57:111][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.10-00.51.57:128][328]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.10.10-00.51.57:128][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.10-00.51.57:188][328]LogSlate: Window 'LevelDesign - Unreal Editor' being destroyed
+[2025.10.10-00.51.57:190][328]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.10.10-00.51.57:379][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.10.10-00.51.57:390][328]Cmd: QUIT_EDITOR
+[2025.10.10-00.51.57:390][329]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.10-00.51.57:398][329]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.10-00.51.57:399][329]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.10-00.51.57:399][329]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.10-00.51.57:439][329]LogWorld: UWorld::CleanupWorld for NAlvarez_SchoolLevel, bSessionEnded=true, bCleanupResources=true
+[2025.10.10-00.51.57:440][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.10-00.51.57:440][329]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/NAlvarez_SchoolLevel.NAlvarez_SchoolLevel
+[2025.10.10-00.51.57:461][329]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.10-00.51.57:462][329]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.10.10-00.51.57:466][329]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.10-00.51.57:474][329]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.10-00.51.57:474][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.10-00.51.57:479][329]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.10.10-00.51.57:479][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.10-00.51.57:491][329]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.10.10-00.51.57:491][329]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.10-00.51.57:499][329]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.10.10-00.51.57:506][329]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.10-00.51.57:506][329]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.10-00.51.57:506][329]LogAudio: Display: Audio Device unregistered from world 'NAlvarez_SchoolLevel'.
+[2025.10.10-00.51.57:507][329]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.10-00.51.57:510][329]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.10.10-00.51.57:514][329]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.10.10-00.51.57:525][329]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.10-00.51.57:526][329]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.10-00.51.57:537][329]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.10-00.51.57:538][329]LogExit: Preparing to exit.
+[2025.10.10-00.51.57:632][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2025.10.10-00.51.57:636][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.10-00.51.57:636][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.10-00.51.57:636][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.10-00.51.57:636][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.10-00.51.57:636][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.10-00.51.57:636][329]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.10-00.51.57:636][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.10-00.51.58:249][329]LogEditorDataStorage: Deinitializing
+[2025.10.10-00.51.58:461][329]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.10-00.51.58:506][329]LogExit: Editor shut down
+[2025.10.10-00.51.58:509][329]LogExit: Transaction tracking system shut down
+[2025.10.10-00.51.59:079][329]LogExit: Object subsystem successfully closed.
+[2025.10.10-00.51.59:138][329]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.10.10-00.51.59:334][329]LogMemoryProfiler: Shutdown
+[2025.10.10-00.51.59:336][329]LogNetworkingProfiler: Shutdown
+[2025.10.10-00.51.59:337][329]LoadingProfiler: Shutdown
+[2025.10.10-00.51.59:338][329]LogTimingProfiler: Shutdown
+[2025.10.10-00.51.59:347][329]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.10.10-00.51.59:347][329]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.10.10-00.51.59:659][329]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.10.10-00.51.59:661][329]LogNFORDenoise: NFORDenoise function shutting down
+[2025.10.10-00.51.59:663][329]RenderDocPlugin: plugin has been unloaded.
+[2025.10.10-00.51.59:704][329]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.10.10-00.51.59:704][329]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3A33F6A0-4F9C-F424-5FF5-F7B3F3D6462E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=7ecebfc3406bdc68e1b08189f5efa750%7C2f96382e4a3047729dcf044280dfe5ae%7Cef89a362-9c86-4f4b-85c9-5fb1f242e2d7&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.10.10-00.52.00:277][329]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.10.10-00.52.00:298][329]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.10.10-00.52.00:298][329]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.10.10-00.52.00:298][329]LogPakFile: Destroying PakPlatformFile
+[2025.10.10-00.52.00:538][329]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.10-00.52.00:593][329]LogExit: Exiting.
+[2025.10.10-00.52.00:610][329]Log file closed, 10/09/25 19:52:00
